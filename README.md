@@ -6,11 +6,9 @@ https://assetstore.unity.com/packages/tools/network/webgl-multiplayer-kit-145882
 
 this Server is powerful WebGL mmo template created special for multiplayer online games or metaverse in html5. 
  
-* Play now WebGL Game Demo: 
- https://riometaverse.herokuapp.com/
 
 * Check out our online documentation for more information:
- https://drive.google.com/file/d/15ebs8A7bwEFCVaWgJkosX1krVXM-GUNr/view
+ https://drive.google.com/file/d/1gLlkXXWeKEl4g9XCxD_R6kopzXFt1pKj/view
  
  
 ## To Run
@@ -18,11 +16,11 @@ this Server is powerful WebGL mmo template created special for multiplayer onlin
 
 ```
 # clone the project
-git clone https://github.com/rio3dstudios/WebGLChatRoomServer.git
+git clone https://github.com/rio3dstudios/ChatGPTServer.git
 
 
-# open the project directory in windows cmd
-cd basicsampleserver
+# open the ChatGPTServer project directory in windows cmd
+cd 
 
 # install dependencies
 npm install
