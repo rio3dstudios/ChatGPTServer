@@ -1,4 +1,4 @@
-# webglserver
+# ChatGPTServer
 Basic NodeJS Server in Java Script for Unity WebGL Aplication
 
 WebGL Meta Multiplayer Kit
